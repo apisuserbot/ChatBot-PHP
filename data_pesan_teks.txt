@@ -30,3 +30,4 @@ halo$                           = Hai;
 ^tanggal berapa ini$            = Sekarang tanggal %tanggal;
 
 ^p$ | ^ping$ | ^woi$            = iya;
+^tolong$ | ^bantu$              = Chat @PacarFerdilla Bila Ada Keperluan Penting;
